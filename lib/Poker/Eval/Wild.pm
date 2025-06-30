@@ -8,11 +8,11 @@ Poker::Eval::Wild - Evaluate and score wildcard poker hands.
 
 =head1 VERSION
 
-Version 0.02
+Version 0.04
 
 =cut
 
-our $VERSION = '0.02';
+our $VERSION = '0.04';
 
 =head1 SYNOPSIS
 

@@ -7,11 +7,11 @@ Poker::Score::HighSuit - Score highest card of a specific suit.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.04
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.04';
 
 =head1 INTRODUCTION
 
