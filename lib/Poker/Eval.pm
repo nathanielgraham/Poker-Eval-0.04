@@ -12,11 +12,11 @@ Poker::Eval - Deal, score, and calculate expected win rates of poker hands. Base
 
 =head1 VERSION
 
-Version 0.06
+Version 0.07
 
 =cut
 
-our $VERSION = '0.06';
+our $VERSION = '0.07';
 
 =head1 SYNOPSIS
 
